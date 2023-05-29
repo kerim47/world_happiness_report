@@ -1,0 +1,1 @@
+{"cmd": "\nimport seaborn as sns\nplanets = sns.load_dataset(\"planets\")\nplanets.head()\n", "import_complete": 1, "terminal": "kitty", "cmd_opts": " --cell_id=vfxbEIthRd -p", "outhist_title": "ZD8GoqEthm", "outhist_cell": "6XUkTCzsKA", "is_md": 1}
